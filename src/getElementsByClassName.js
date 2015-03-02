@@ -4,7 +4,7 @@
 // };
 
 // But instead we're going to implement it from scratch:
-var getElementsByClassName = function(className
+var getElementsByClassName = function(className, search
 ){
 	var results=[];
   // your code here
